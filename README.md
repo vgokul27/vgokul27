@@ -18,7 +18,7 @@
   `React`, `MongoDB`, `Express.js`, `Next.js`, `DSA`
   
 - 📫 How to reach me:
-  <br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/gokulraj-v-b8b7a3291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  <br /> [LinkedIn](https://www.linkedin.com/in/gokulraj-v-b8b7a3291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💡 Fun Fact:  
   I'm a huge fan of Game of Thrones and love building creative web apps!

@@ -47,3 +47,5 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="GitHub"/>
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gokul_27?theme=light&font=Merienda%20One)

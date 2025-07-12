@@ -26,7 +26,7 @@
 ### 🛠️ Languages & Technologies I Use
 
 <p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML-5"/>
+  [<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML-5"/>]
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>

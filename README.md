@@ -48,6 +48,6 @@
   <img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="GitHub"/>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gokul_27?theme=light&font=Merienda%20One)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gokul_27?theme=dark&font=Marcellus)
 
 [![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vgokul27&bg_color=0a0a0a&color=f3f2f3&line=22dd6a&point=f4f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

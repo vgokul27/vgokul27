@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Technologies I Use
 
-<p align="left">
+<p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML-5"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
@@ -42,7 +42,7 @@
 
 ### 🧰 Tools I Use
 
-<p align="left">
+<p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="GitHub"/>
